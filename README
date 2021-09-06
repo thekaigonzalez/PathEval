@@ -1,0 +1,17 @@
+PathEval: Python-like path interpreter.
+
+==========================================
+
+PathEval is a python-like path interpreter written in D.
+
+Paths like
+
+path.to.my.file
+
+Are going to be evaluated into
+
+path/to/my/file
+
+Source code is simple, and easy to modify.
+
+You can change it for your own Interpreter's needs.
