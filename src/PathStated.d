@@ -1,7 +1,7 @@
 //Path State: Path Evaluation
 
 import Statement;
-import SearchState;
+import SearchStated;
 
 class PathState {
 string path;

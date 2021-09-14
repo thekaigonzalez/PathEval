@@ -15,3 +15,13 @@ path/to/my/file
 Source code is simple, and easy to modify.
 
 You can change it for your own Interpreter's needs.
+
+I N S T A L L
+
+You can install with the command:
+
+sudo gitstrap install patheval (For GitStrap)
+
+OR
+
+make && sudo make install

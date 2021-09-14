@@ -1,6 +1,6 @@
 //Infinite loop
 
-import PathState;
+import PathStated;
 import std.stdio;
 void main() {
  while (true) {
